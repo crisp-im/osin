@@ -5,8 +5,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/crisp-im/osin"
-	"github.com/crisp-im/osin/example"
+	"github.com/crisp-dev/osin"
+	"github.com/crisp-dev/osin/example"
 	"net/http"
 	"net/url"
 )

@@ -9,8 +9,8 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/crisp-im/osin"
-	"github.com/crisp-im/osin/example"
+	"github.com/crisp-dev/osin"
+	"github.com/crisp-dev/osin/example"
 	jwt "github.com/dgrijalva/jwt-go"
 )
 

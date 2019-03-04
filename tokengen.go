@@ -3,7 +3,7 @@ package osin
 import (
 	"encoding/base64"
 
-	"github.com/crisp-im/uuid"
+	"github.com/crisp-dev/uuid"
 )
 
 // AuthorizeTokenGenDefault is the default authorization token generator
