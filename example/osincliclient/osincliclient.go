@@ -1,14 +1,14 @@
 package main
 
-// Use github.com/RangelReale/osincli client to test
+// Use github.com/crisp-im/osincli client to test
 // Open url in browser:
 // http://localhost:14001
 
 import (
 	"fmt"
-	"github.com/RangelReale/osin"
-	"github.com/RangelReale/osin/example"
-	"github.com/RangelReale/osincli"
+	"github.com/crisp-im/osin"
+	"github.com/crisp-im/osin/example"
+	"github.com/crisp-im/osincli"
 	"net/http"
 )
 

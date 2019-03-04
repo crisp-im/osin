@@ -2,7 +2,7 @@ package example
 
 import (
 	"fmt"
-	"github.com/RangelReale/osin"
+	"github.com/crisp-im/osin"
 )
 
 type TestStorage struct {
